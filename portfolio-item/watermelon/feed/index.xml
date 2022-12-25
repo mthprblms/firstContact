@@ -8,7 +8,7 @@
 <channel>
 	<title>
 	Comments on: Statistics	</title>
-	<atom:link href="./portfolio-item/watermelon/feed/" rel="self" type="application/rss+xml" />
+	<atom:link href="/portfolio-item/watermelon/feed/" rel="self" type="application/rss+xml" />
 	<link>/portfolio-item/watermelon/</link>
 	<description></description>
 	<lastBuildDate>Sat, 24 Dec 2022 18:16:40 +0000</lastBuildDate>

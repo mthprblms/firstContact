@@ -8,7 +8,7 @@
 <channel>
 	<title>
 	Comments on: cONNECTION	</title>
-	<atom:link href="./attention-to-details/feed/" rel="self" type="application/rss+xml" />
+	<atom:link href="/attention-to-details/feed/" rel="self" type="application/rss+xml" />
 	<link>/attention-to-details/</link>
 	<description></description>
 	<lastBuildDate>Sat, 24 Dec 2022 20:28:29 +0000</lastBuildDate>
