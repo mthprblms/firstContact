@@ -8,7 +8,7 @@
 <channel>
 	<title>
 	Comments on: Family Care	</title>
-	<atom:link href="./firstContact/portfolio-item/animated/feed/" rel="self" type="application/rss+xml" />
+	<atom:link href="./portfolio-item/animated/feed/" rel="self" type="application/rss+xml" />
 	<link>/portfolio-item/animated/</link>
 	<description></description>
 	<lastBuildDate>Sat, 24 Dec 2022 18:17:04 +0000</lastBuildDate>

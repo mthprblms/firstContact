@@ -9,7 +9,7 @@
 
 <channel>
 	<title>Space &#8211; firstCONTACT</title>
-	<atom:link href="./firstContact/category/design/space/feed/" rel="self" type="application/rss+xml" />
+	<atom:link href="./category/design/space/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description></description>
 	<lastBuildDate>Thu, 15 Oct 2020 10:29:49 +0000</lastBuildDate>
@@ -63,7 +63,7 @@
 								<div class="elementor-element elementor-element-042c5a6 elementor-widget elementor-widget-image" data-id="042c5a6" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
 			<style>/*! elementor - v3.9.2 - 21-12-2022 */
-.elementor-widget-image{text-align:center}.elementor-widget-image a{display:inline-block}.elementor-widget-image a img[src$=".svg"]{width:48px}.elementor-widget-image img{vertical-align:middle;display:inline-block}</style>												<img decoding="async" width="800" height="800" src="./firstContact/wp-content/uploads/2020/10/blog-img-2.jpg" class="attachment-full size-full wp-image-291" alt="" loading="lazy" srcset="./wp-content/uploads/2020/10/blog-img-2.jpg 800w, /wp-content/uploads/2020/10/blog-img-2-300x300.jpg 300w, /wp-content/uploads/2020/10/blog-img-2-150x150.jpg 150w, /wp-content/uploads/2020/10/blog-img-2-768x768.jpg 768w, /wp-content/uploads/2020/10/blog-img-2-650x650.jpg 650w" sizes="(max-width: 800px) 100vw, 800px" />															</div>
+.elementor-widget-image{text-align:center}.elementor-widget-image a{display:inline-block}.elementor-widget-image a img[src$=".svg"]{width:48px}.elementor-widget-image img{vertical-align:middle;display:inline-block}</style>												<img decoding="async" width="800" height="800" src="./wp-content/uploads/2020/10/blog-img-2.jpg" class="attachment-full size-full wp-image-291" alt="" loading="lazy" srcset="./wp-content/uploads/2020/10/blog-img-2.jpg 800w, /wp-content/uploads/2020/10/blog-img-2-300x300.jpg 300w, /wp-content/uploads/2020/10/blog-img-2-150x150.jpg 150w, /wp-content/uploads/2020/10/blog-img-2-768x768.jpg 768w, /wp-content/uploads/2020/10/blog-img-2-650x650.jpg 650w" sizes="(max-width: 800px) 100vw, 800px" />															</div>
 				</div>
 					</div>
 		</div>
@@ -71,7 +71,7 @@
 			<div class="elementor-widget-wrap elementor-element-populated">
 								<div class="elementor-element elementor-element-b318335 elementor-widget elementor-widget-image" data-id="b318335" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
-															<img decoding="async" width="800" height="800" src="./firstContact/wp-content/uploads/2020/10/blog-img-3.jpg" class="attachment-full size-full wp-image-292" alt="f" loading="lazy" srcset="./wp-content/uploads/2020/10/blog-img-3.jpg 800w, /wp-content/uploads/2020/10/blog-img-3-300x300.jpg 300w, /wp-content/uploads/2020/10/blog-img-3-150x150.jpg 150w, /wp-content/uploads/2020/10/blog-img-3-768x768.jpg 768w, /wp-content/uploads/2020/10/blog-img-3-650x650.jpg 650w" sizes="(max-width: 800px) 100vw, 800px" />															</div>
+															<img decoding="async" width="800" height="800" src="./wp-content/uploads/2020/10/blog-img-3.jpg" class="attachment-full size-full wp-image-292" alt="f" loading="lazy" srcset="./wp-content/uploads/2020/10/blog-img-3.jpg 800w, /wp-content/uploads/2020/10/blog-img-3-300x300.jpg 300w, /wp-content/uploads/2020/10/blog-img-3-150x150.jpg 150w, /wp-content/uploads/2020/10/blog-img-3-768x768.jpg 768w, /wp-content/uploads/2020/10/blog-img-3-650x650.jpg 650w" sizes="(max-width: 800px) 100vw, 800px" />															</div>
 				</div>
 					</div>
 		</div>
