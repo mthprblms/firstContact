@@ -21,7 +21,7 @@
 	<generator>https://wordpress.org/?v=6.1.1</generator>
 
 <image>
-	<url>./wp-content/uploads/2022/12/logo-150x150.png</url>
+	<url>/wp-content/uploads/2022/12/logo-150x150.png</url>
 	<title>Ministries &#8211; firstCONTACT</title>
 	<link>/</link>
 	<width>32</width>
