@@ -9,7 +9,7 @@
 
 <channel>
 	<title>Milk &#8211; firstCONTACT</title>
-	<atom:link href="/portfolio-tag/milk/feed/" rel="self" type="application/rss+xml" />
+	<atom:link href="./portfolio-tag/milk/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description></description>
 	<lastBuildDate>Sat, 24 Dec 2022 18:19:11 +0000</lastBuildDate>

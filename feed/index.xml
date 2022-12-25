@@ -9,7 +9,7 @@
 
 <channel>
 	<title>firstCONTACT</title>
-	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
+	<atom:link href="./feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description></description>
 	<lastBuildDate>Sat, 24 Dec 2022 20:35:30 +0000</lastBuildDate>
